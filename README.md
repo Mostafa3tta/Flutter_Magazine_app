@@ -24,17 +24,17 @@ Features ....
   <img src="https://github.com/Mostafa3tta/Flutter_Magazine_app/blob/main/facebook.svg" alt="Facebook" width="24" height="24"/>
 </a>
 
-<br><br>
+<br>
 
 
 <a href="https://www.linkedin.com/in/mostafa-atta-5949581a2">
   <img src="https://github.com/Mostafa3tta/Flutter_Magazine_app/blob/main/linkedin.svg" alt="LinkedIn" width="24" height="24"/>
 </a>
 
-<br><br>
+<br>
 
 <a href="https://wsend.co/201062947371">
   <img src="https://github.com/Mostafa3tta/Flutter_Magazine_app/blob/main/whatsapp.svg" alt="WhatsApp" width="24" height="24"/>
 </a>
 
-<br><br>
+<br>
