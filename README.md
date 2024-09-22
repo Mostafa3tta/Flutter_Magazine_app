@@ -13,17 +13,3 @@ Features ....
 
 <iframe width="560" height="315" src="project_preview" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<div class="container">
-        <!-- Header Section -->
-        <div class="header">
-            <img src="profile-pic.png" alt="Mostafa Atta Mohamed">
-            <div class="header-info">
-                <h1>Mostafa Atta Mohamed</h1>
-                <h4>Senior Software Developer</h4>
-                <div class="social-links">
-                    <a href="https://www.linkedin.com/in/mostafa-atta-5949581a2/"><i class="fab fa-linkedin-in"></i></a>
-                    <a href="https://github.com/Mostafa3tta"><i class="fab fa-github"></i></a>
-                    <a href="https://www.facebook.com/mostafa.atta.9085"><i class="fab fa-facebook"></i></a>
-                </div>
-            </div>
-        </div>
