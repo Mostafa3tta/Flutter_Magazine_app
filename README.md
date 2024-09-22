@@ -18,8 +18,8 @@ Features ....
 
 ### للتواصل معي
 
-<a href="[https://facebook.com/yourprofile](https://www.facebook.com/mostafa.atta.9085)">
-  <img src="[data:image/svg+xml;base64,[BASE64_ENCODED_SVG]](https://github.com/Mostafa3tta/Flutter_Magazine_app/blob/main/facebook.svg)" alt="Facebook" width="24" height="24"/>
+<a href="https://www.facebook.com/mostafa.atta.9085">
+  <img src="https://github.com/yourusername/yourrepository/raw/main/facebook-icon.svg" alt="Facebook" width="24" height="24"/>
 </a>
 
 
