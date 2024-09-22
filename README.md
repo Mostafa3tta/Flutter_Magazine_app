@@ -16,9 +16,16 @@ Features ....
 
 
 
+
+## Screenshots
+![Image 1](https://github.com/Mostafa3tta/Flutter_Magazine_app/blob/main/Magazine/1.jpg?raw=true)
+![Image 2](https://github.com/Mostafa3tta/Flutter_Magazine_app/blob/main/Magazine/2.jpg?raw=true)
+![Image 3](https://github.com/Mostafa3tta/Flutter_Magazine_app/blob/main/Magazine/3.jpg?raw=true)
+![Image 4](https://github.com/Mostafa3tta/Flutter_Magazine_app/blob/main/Magazine/4.jpg?raw=true)
+![Image 5](https://github.com/Mostafa3tta/Flutter_Magazine_app/blob/main/Magazine/5.jpg?raw=true)
+![Image 6](https://github.com/Mostafa3tta/Flutter_Magazine_app/blob/main/Magazine/6.jpg?raw=true)
+
 ### Contact Me
-
-
 
 <a href="https://www.facebook.com/mostafa.atta.9085">
   <img src="https://github.com/Mostafa3tta/Flutter_Magazine_app/blob/main/facebook.svg" alt="Facebook" width="24" height="24"/>
